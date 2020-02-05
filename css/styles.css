@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #000000;
-  background-image:<svg width="2400px" height="1600px" viewBox="0 0 2400 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  background-image: image( width="2400px" height="1600px" viewBox="0 0 2400 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#148BB1"/>
@@ -1226,15 +1226,14 @@ body {
       <polyline id="path" points="368 337 415 337 444 308 444 305 453 296"></polyline>
       <polyline id="path" points="328 489 327.984385 441.015635 315.96878 429.000031 315.96878 413.03122 332 397 332 373"></polyline>
       <polyline id="path" points="307 406 324 389 324 373"></polyline>
-      <polyline id="path" points="327 417 327 414 340 401 340 373"></polyline>
+      <polyline id="path" points= "327 417 327 414 340 401 340 373"></polyline>
       <polyline id="path" points="340 433 340 413 348 405 348 373"></polyline>
       <polyline id="path" points="340 325 340 261 244 165 244 25 240 21 240 1"></polyline>
       <polyline id="path" points="356 325 356 237 372 221 372 212"></polyline>
       <polyline id="path" points="416 605 391 605 364 578 364 414 356 406 356 373"></polyline>
       <polyline id="path" points="364 325 364 241 384 221 384 201"></polyline>
     </g>
-  </g>
-</svg>;
+  </g>);
   font-family: 'Roboto', sans-serif;
 }
 
