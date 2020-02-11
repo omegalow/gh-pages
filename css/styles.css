@@ -28,7 +28,8 @@ body {
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
-  text-decoration: none;
+/* text-decoration: none; */
+  color: #39FF14;
 }
 
 #nav-list {
@@ -36,7 +37,7 @@ body {
 }
 #nav-list a {
   font-family: 'Montserrat', sans-serif;
-  color: #39FF14;
+  color: #ffffff;
   font-weight: bold;
   text-align: center;
 }
