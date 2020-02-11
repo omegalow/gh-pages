@@ -33,13 +33,12 @@ body {
 .navbar-brand h6{ /* logo name or somin */
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
-  margin-top: 0;
+/*  margin-top: 0;
   margin-bottom: 0;
-  line-height: .75;
+  line-height: .75;*/
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
 text-decoration: none;
