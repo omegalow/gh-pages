@@ -8,7 +8,7 @@ body {
 /** HEADER **/
 #header-nav {
   background-image: linear-gradient(
-          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7),
           rgba(0, 0, 0, 0.7)
         ),url("https://raw.githubusercontent.com/omegalow/omegalow/master/images/electronics-1242938.jpg");
   border-radius: 0;
@@ -68,6 +68,7 @@ text-decoration: none;
   background-color: #ffffff;
   padding-left: 10px;
   padding-right: 10px;
+  font-family: 'Roboto', sans-serif;
 }
 #main-content{
   margin-right: 15px;
