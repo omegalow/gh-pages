@@ -19,7 +19,7 @@ body {
   padding-top: 15px;
 }
 
-.navbar-brand h1 { /* logo name or somin */
+.navbar-brand h1 h6 { /* logo name or somin */
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 1.5em;
